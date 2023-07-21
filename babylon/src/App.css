@@ -1,0 +1,16 @@
+.navbar .nav-item{
+  display: flex;
+  margin-right: 1rem;
+}
+.navbar{
+  background-color: blueviolet;
+}
+
+.dd-item{
+  width: 200px;
+}
+
+.month-label{
+  color: white;
+  font-weight: 600;
+}
